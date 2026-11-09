@@ -1,0 +1,16 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "SunMax 450",
+        "precio": 285000.0,
+        "stock": 12,
+        "potencia_w": 450,
+        "eficiencia": 21.8
+    },
+    {
+        "tipo": "DispositivoEcológico",
+        "nombre": "Cargador solar portátil",
+        "precio": 45000.0,
+        "stock": 40
+    }
+]
